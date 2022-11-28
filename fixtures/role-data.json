@@ -1,0 +1,432 @@
+{
+  "tenant": {
+    "0": {
+      "all": true,
+      "enable": true
+    },
+    "account": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "action": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "delete": true,
+        "detail": true,
+        "setRole": true,
+        "update": true
+      },
+      "create": true
+    },
+    "product": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "category": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "delete": true,
+          "detail": true,
+          "update": true,
+          "viewProduct": true
+        },
+        "create": true
+      },
+      "commodity": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "delete": true,
+          "detail": true,
+          "update": true,
+          "viewProduct": true
+        },
+        "create": true
+      },
+      "product": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "delete": true,
+          "detail": true,
+          "update": true
+        },
+        "create": true
+      }
+    },
+    "receipt": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "export": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "delete": true,
+          "detail": true,
+          "update": true
+        },
+        "request": true
+      },
+      "import": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "delete": true,
+          "detail": true,
+          "update": true
+        },
+        "request": true
+      },
+      "inspection": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "delete": true,
+          "detail": true,
+          "update": true
+        },
+        "request": true
+      }
+    },
+    "role": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "action": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "delete": true,
+        "detail": true,
+        "update": true
+      },
+      "create": true
+    },
+    "statics": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "account": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "inactive": true,
+        "new": true
+      },
+      "product": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "inComing": true,
+        "new": true,
+        "outComing": true,
+        "stockProduct": true,
+        "withCate": true,
+        "withCommodity": true
+      },
+      "request": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "export": true,
+        "import": true,
+        "inspection": true
+      },
+      "zone-warehouse": true
+    },
+    "tenant": {
+      "action": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "detail": true,
+        "tenant": true
+      }
+    },
+    "warehouse-tenanted": {
+      "action": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "buyMore": true,
+        "detail": true
+      }
+    }
+  },
+  "warehouse": {
+    "0": {
+      "all": true,
+      "enable": true
+    },
+    "account": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "action": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "delete": true,
+        "detail": true,
+        "setRole": true,
+        "update": true
+      },
+      "create": true
+    },
+    "product": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "category": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "delete": true,
+          "detail": true,
+          "update": true,
+          "viewProduct": true
+        },
+        "create": true
+      },
+      "commodity": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "delete": true,
+          "detail": true,
+          "update": true,
+          "viewProduct": true
+        },
+        "create": true
+      },
+      "product": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "delete": true,
+          "detail": true,
+          "update": true
+        },
+        "create": true
+      }
+    },
+    "receipt": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "export": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "approve": true,
+          "delete": true,
+          "packingProduct": true,
+          "reject": true,
+          "shipping": true
+        },
+        "create": true,
+        "request": true
+      },
+      "import": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "approve": true,
+          "delete": true,
+          "loadingProduct": true,
+          "reject": true,
+          "shipping": true
+        },
+        "create": true,
+        "request": true
+      },
+      "inspection": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "action": {
+          "0": {
+            "all": true,
+            "enable": true
+          },
+          "approve": true,
+          "delete": true,
+          "reject": true,
+          "result": true
+        },
+        "create": true,
+        "request": true
+      }
+    },
+    "role": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "action": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "delete": true,
+        "detail": true,
+        "update": true
+      },
+      "create": true
+    },
+    "statics": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "account": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "inactive": true,
+        "new": true
+      },
+      "product": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "inComing": true,
+        "new": true,
+        "outComing": true,
+        "stockProduct": true,
+        "withCate": true,
+        "withCommodity": true
+      },
+      "request": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "export": true,
+        "import": true,
+        "inspection": true
+      },
+      "zone-warehouse": true
+    },
+    "tenant": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "action": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "approve": true,
+        "detail": true,
+        "reject": true
+      },
+      "create": true,
+      "setting": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "discount": true,
+        "prices": true
+      }
+    },
+    "warehouse-zone": {
+      "0": {
+        "all": true,
+        "enable": true
+      },
+      "action": {
+        "0": {
+          "all": true,
+          "enable": true
+        },
+        "detail": true,
+        "moveProduct": true,
+        "update": true
+      },
+      "create": true
+    }
+  }
+}
