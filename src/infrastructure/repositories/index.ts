@@ -23,3 +23,4 @@ export * from './tenant/detail-tenant-warehouse.repository';
 export * from './tenant/discount-prices.repository';
 export * from './tenant/setting-prices.repository';
 export * from './tenant/bill-payment.repository';
+export * from './toiec/question.repository';
